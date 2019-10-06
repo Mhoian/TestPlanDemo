@@ -1,1 +1,1 @@
-# Test Plan for Analytical Server "OHLC"
+# Test Plan for the Analytical Server "OHLC"
